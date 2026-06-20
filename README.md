@@ -10,7 +10,7 @@ Built a 5-year Discounted Cash Flow (DCF) valuation model for Apple Inc. in Micr
 - Sensitivity Analysis
 
 ## Key Findings
-- Intrinsic Value per Share: $124.20
+- Intrinsic Value per Share: $124.40
 - Market Price at Time of Analysis: ~$295
 
 Based on the assumptions used in this model, Apple's market price exceeded its estimated intrinsic value, suggesting the stock was trading at a premium relative to the model's projected cash flows.
