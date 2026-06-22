@@ -19,6 +19,6 @@ I don't believe this necessarily means the model is wrong. DCF valuations are hi
 
 The difference between my valuation and the market price suggests investors may be expecting stronger future growth, higher profitability, a lower required return, or additional value from future products and initiatives that are not reflected in my assumptions.
 
-The sensitivity analysis shows how much the valuation changes when WACC and terminal growth assumptions are adjusted, highlighting how important these inputs are to the final result.
+The sensitivity analysis shows how much the valuation changes when WACC and terminal growth assumptions are adjusted, emphasizing how important these inputs are to the final result.
 
 
